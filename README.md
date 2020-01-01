@@ -1,6 +1,10 @@
 # Basic-styles
 Basic map styles for background map display.  
 
+Also please read how I create the style (in Japanese).
+https://qiita.com/moritoru/items/78aeb5491a4b2627fa9d
+
+
 ## Basic - display samples  
 #### Zoom 13
 <img width="1207" alt="スクリーンショット 2020-01-01 15 40 05" src="https://user-images.githubusercontent.com/55660712/71638805-48c42580-2cad-11ea-8396-34e63fd42087.png">  
