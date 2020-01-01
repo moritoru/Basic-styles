@@ -6,7 +6,9 @@ Anyone who want to use them by using style url, here is it.
 https://api.mapbox.com/styles/v1/moritoru/ck43vh61209if1dkt06mn0k7g.html?fresh=true&title=copy&access_token=pk.eyJ1IjoibW9yaXRvcnUiLCJhIjoiY2sxYzBnMzU0MDhscjNqcW5rd2hxa2hwOCJ9.6gCz93_x9iLisCcCZc3T2Q#15.0/35.681140/139.767567/0
 
 Also please read the article how I created the style (in Japanese).  
-https://qiita.com/moritoru/items/78aeb5491a4b2627fa9d
+https://qiita.com/moritoru/items/78aeb5491a4b2627fa9d  
+
+If you have any questions, please send email to moritoru@cunemo.com
 
 
 ## Basic - display samples  
